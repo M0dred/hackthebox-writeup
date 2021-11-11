@@ -18,6 +18,7 @@ One for all, all for one.
 
 ## List of writeups (2021-11)
 
+'''
 ├── Linux
 │   ├── Easy
 │   │   ├── BountyHunter
@@ -33,6 +34,7 @@ One for all, all for one.
     ├── Insane
     └── Medium
         └── Seal
+'''
 
 ## List of tools
 
